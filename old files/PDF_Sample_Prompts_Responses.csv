@@ -1,0 +1,11 @@
+prompts,responses,Source
+What is the loan amount requested by Alice Johnson?,"Alice Johnson requested a loan amount of $253,056 for a First-Time Homebuyer Loan.",First_Time_Homebuyer_Loan_Application.pdf
+Who has the highest annual income among the applicants?,"Bob Brown has the highest annual income at $111,196.",Standard_Home_Loan_Application.pdf
+What is the purchase price of the property at 456 Oak St?,"The purchase price of the property at 456 Oak St is $131,266.",First_Time_Homebuyer_Loan_Application.pdf
+Which applicant has existing credit card debt?,"Bob Brown has existing credit card debt of $41,994.",Standard_Home_Loan_Application.pdf
+What is the loan term requested by Alice Johnson for the Home Improvement Loan?,Alice Johnson requested a loan term of 30 years for the Home Improvement Loan.,Home_Improvement_Loan_Application.pdf
+What is the estimated value of Alice Johnson's property after improvements?,"The estimated value of Alice Johnson's property after improvements is $560,421.",Home_Improvement_Loan_Application.pdf
+Which applicant works for Initech?,All applicants (Alice Johnson and Bob Brown) work for Initech.,Multiple sources
+What is the down payment amount for the Standard Home Loan?,"The down payment amount for the Standard Home Loan is $82,964.",Standard_Home_Loan_Application.pdf
+What type of interest rate did Alice Johnson choose for her First-Time Homebuyer Loan?,Alice Johnson chose a fixed interest rate for her First-Time Homebuyer Loan.,First_Time_Homebuyer_Loan_Application.pdf
+What is the current value of the property for the Home Improvement Loan?,"The current value of the property for the Home Improvement Loan is $216,375.",Home_Improvement_Loan_Application.pdf
