@@ -1,0 +1,184 @@
+Prompt,Response,Source,LLM response,bb_sources,bb_score,
+What feedback do we have about our customer service?,"Clients have praised our customer support efficiency, though concerns about wait times have been noted.",Client_Relationship_Summary.pdf,"Some concerns over wait times. Loan Document
+Client Relationship Summary
+Customer Service Feedback
+High satisfaction with support. Client Retention Strategies
+Loyalty rewards program successful. Additionally, declaration is an important concept to consider.",Client_Relationship_Summary.pdf,1,1
+What is the loan term requested by Alice Johnson for the Home Improvement Loan?,Alice Johnson requested a loan term of 30 years for the Home Improvement Loan.,Home_Improvement_Loan_Application.pdf,"Loan Document
+Loan Processing Times Report
+Average Processing Times
+Most loans processed within 14 days. Training for faster document handling. Some exceptions during peak times. Additionally, market is an important concept to consider.",Mortgage_Options_Review.pdf,0.830818783,0
+What is the estimated value of Alice Johnson's property after improvements?,"The estimated value of Alice Johnson's property after improvements is $560,421.",Home_Improvement_Loan_Application.pdf,"Signature: __________________________
+Date: 2023-06-15
+Page 1 Loan Application Form
+Applicant Name: Alice Johnson
+Address: 123 Elm St
+Phone: 6943202245
+Email: jane@example.com
+Loan Type: Home Improvement Loan
+Amount Requested: $425867
+Term: 30 years
+Interest Type: Fixed
+Employer: Initech
+Annual Income: $77315
+Existing Debts: None
+Property Details:
+Current Value: $216375
+Estimated Value Post Improvement: $560421
+Declaration: I declare that the information provided is true and accurate to the best of my knowledge. Additionally, interest is an important concept to consider.",Investment_Opportunities_Brief.pdf,1,
+Which applicant works for Initech?,All applicants (Alice Johnson and Bob Brown) work for Initech.,Multiple sources,"Ideal for long-term planning. Adjustable-Rate Mortgages
+Lower initial rates. Loan Document
+Mortgage Options Review
+Fixed-Rate Mortgages
+Stable interest rates. Additionally, details is an important concept to consider.",Bank_Document.pdf,0.921506886,
+What is the down payment amount for the Standard Home Loan?,"The down payment amount for the Standard Home Loan is $82,964.",Standard_Home_Loan_Application.pdf,"Some concerns over wait times. Personalized service offerings. Client Retention Strategies
+Loyalty rewards program successful. Additionally, best is an important concept to consider.",Loan_Processing_Times_Report.pdf,0.62549007,
+What type of interest rate did Alice Johnson choose for her First-Time Homebuyer Loan?,Alice Johnson chose a fixed interest rate for her First-Time Homebuyer Loan.,First_Time_Homebuyer_Loan_Application.pdf,"Personalized service offerings. Some concerns over wait times. Client Retention Strategies
+Loyalty rewards program successful. Additionally, times is an important concept to consider.",Bank_Document.pdf,0.854266946,
+What strategies are in place for client retention?,Client retention is supported by loyalty programs and personalized service offerings.,Client_Relationship_Summary.pdf,"Loan Application Form
+Applicant Name: Bob Brown
+Address: 789 Pine St
+Phone: 1609659143
+Email: alice@example.com
+Loan Type: Standard Home Loan
+Amount Requested: $254302
+Term: 15 years
+Interest Type: Fixed
+Employer: Initech
+Annual Income: $111196
+Existing Debts: $41994 in credit card debt
+Property Details:
+Property Address: 321 Maple St
+Purchase Price: $414823
+Down Payment: $82964
+Declaration: I declare that the information provided is true and accurate to the best of my knowledge. Signature: __________________________
+Date: 2023-07-01
+Page 1 Additionally, that is an important concept to consider.",Client_Relationship_Summary.pdf,1,0
+Provide the latest updates on tech startup investments.,Investments in tech startups focus on high-growth companies in emerging technology sectors.,Investment_Opportunities_Brief.pdf,"Tech Startups
+Investing in high-growth tech startups. Loan Document
+Investment Opportunities Brief
+Real Estate Investments
+Opportunities in residential and commercial real estate. Additionally, details is an important concept to consider.",Investment_Opportunities_Brief.pdf,1,
+What measures are we taking against market volatility?,Market risks are mitigated through diversified investments and hedging strategies.,Risk_Management_Strategies.pdf,"Market Risk Management
+Hedging strategies to protect against market volatility. Loan Document
+Risk Management Strategies
+Credit Risk Management
+Policies to mitigate the risk of default on loans. Additionally, type is an important concept to consider.",Risk_Management_Strategies.pdf,1,
+What is the loan amount requested by Alice Johnson?,"Alice Johnson requested a loan amount of $253,056 for a First-Time Homebuyer Loan.",First_Time_Homebuyer_Loan_Application.pdf,"Loan Application Form
+Applicant Name: Alice Johnson
+Address: 321 Maple St
+Phone: 2312152527
+Email: alice@example.com
+Loan Type: First-Time Homebuyer Loan
+Amount Requested: $253056
+Term: 25 years
+Interest Type: Fixed
+Employer: Initech
+Annual Income: $113631
+Existing Debts: None
+Property Details:
+Property Address: 456 Oak St
+Purchase Price: $131266
+Down Payment: $13126
+Declaration: I declare that the information provided is true and accurate to the best of my knowledge. Signature: __________________________
+Date: 2023-06-15
+Page 1 Additionally, times is an important concept to consider.",Loan_Processing_Times_Report.pdf,0.69067268,
+Who has the highest annual income among the applicants?,"Bob Brown has the highest annual income at $111,196.",Standard_Home_Loan_Application.pdf,"Loan Application Form
+Applicant Name: Alice Johnson
+Address: 123 Elm St
+Phone: 6943202245
+Email: jane@example.com
+Loan Type: Home Improvement Loan
+Amount Requested: $425867
+Term: 30 years
+Interest Type: Fixed
+Employer: Initech
+Annual Income: $77315
+Existing Debts: None
+Property Details:
+Current Value: $216375
+Estimated Value Post Improvement: $560421
+Declaration: I declare that the information provided is true and accurate to the best of my knowledge. Signature: __________________________
+Date: 2023-06-15
+Page 1 Additionally, address is an important concept to consider.",Bank_Document.pdf,1,
+What is the purchase price of the property at 456 Oak St?,"The purchase price of the property at 456 Oak St is $131,266.",First_Time_Homebuyer_Loan_Application.pdf,"Loan Document
+Risk Management Strategies
+Credit Risk Management
+Policies to mitigate the risk of default on loans. Market Risk Management
+Hedging strategies to protect against market volatility. Additionally, risk is an important concept to consider.",Bank_Document.pdf,1,
+Which applicant has existing credit card debt?,"Bob Brown has existing credit card debt of $41,994.",Standard_Home_Loan_Application.pdf,"Loan Application Form
+Applicant Name: Alice Johnson
+Address: 321 Maple St
+Phone: 2312152527
+Email: alice@example.com
+Loan Type: First-Time Homebuyer Loan
+Amount Requested: $253056
+Term: 25 years
+Interest Type: Fixed
+Employer: Initech
+Annual Income: $113631
+Existing Debts: None
+Property Details:
+Property Address: 456 Oak St
+Purchase Price: $131266
+Down Payment: $13126
+Declaration: I declare that the information provided is true and accurate to the best of my knowledge. Signature: __________________________
+Date: 2023-06-15
+Page 1 Additionally, times is an important concept to consider.",Bank_Document.pdf,1,
+What is the current value of the property for the Home Improvement Loan?,"The current value of the property for the Home Improvement Loan is $216,375.",Home_Improvement_Loan_Application.pdf,"Market Risk Management
+Hedging strategies to protect against market volatility. Loan Document
+Risk Management Strategies
+Credit Risk Management
+Policies to mitigate the risk of default on loans. Additionally, true is an important concept to consider.",Loan_Processing_Times_Report.pdf,0.644687403,
+How quickly are we currently processing loans?,"Loan processing times average 14 days, with ongoing efforts to reduce this via automation.",Loan_Processing_Times_Report.pdf,"Loan Document
+Risk Management Strategies
+Credit Risk Management
+Policies to mitigate the risk of default on loans. Market Risk Management
+Hedging strategies to protect against market volatility. Additionally, true is an important concept to consider.",Loan_Processing_Times_Report.pdf,1,
+What are the new investment opportunities in real estate?,Current opportunities include investments in both residential and commercial real estate.,Investment_Opportunities_Brief.pdf,"Market Risk Management
+Hedging strategies to protect against market volatility. Loan Document
+Risk Management Strategies
+Credit Risk Management
+Policies to mitigate the risk of default on loans. Additionally, declaration is an important concept to consider.",Investment_Opportunities_Brief.pdf,1,0
+How are we managing credit risk?,Credit risk is managed through stringent loan approval criteria and ongoing monitoring of borrower financial health.,Risk_Management_Strategies.pdf,"Loan Application Form
+Applicant Name: Bob Brown
+Address: 789 Pine St
+Phone: 1609659143
+Email: alice@example.com
+Loan Type: Standard Home Loan
+Amount Requested: $254302
+Term: 15 years
+Interest Type: Fixed
+Employer: Initech
+Annual Income: $111196
+Existing Debts: $41994 in credit card debt
+Property Details:
+Property Address: 321 Maple St
+Purchase Price: $414823
+Down Payment: $82964
+Declaration: I declare that the information provided is true and accurate to the best of my knowledge. Signature: __________________________
+Date: 2023-07-01
+Page 1 Additionally, initech is an important concept to consider.",Risk_Management_Strategies.pdf,1,0
+What are our approaches to reducing risk?,Our approaches to managing risk include addressing credit risk through reducing defaults and hedging against market volatility.,Risk_Management_Strategies.pdf,"Signature: __________________________
+Date: 2023-07-01
+Page 1 Loan Application Form
+Applicant Name: Bob Brown
+Address: 789 Pine St
+Phone: 1609659143
+Email: alice@example.com
+Loan Type: Standard Home Loan
+Amount Requested: $254302
+Term: 15 years
+Interest Type: Fixed
+Employer: Initech
+Annual Income: $111196
+Existing Debts: $41994 in credit card debt
+Property Details:
+Property Address: 321 Maple St
+Purchase Price: $414823
+Down Payment: $82964
+Declaration: I declare that the information provided is true and accurate to the best of my knowledge. Additionally, rates is an important concept to consider.",Risk_Management_Strategies.pdf,1,0
+Detail the advantages of fixed-rate mortgages.,"Fixed-rate mortgages provide stability with constant interest rates, making budgeting easier for borrowers.",Mortgage_Options_Review.pdf,"Loan Document
+Mortgage Options Review
+Fixed-Rate Mortgages
+Stable interest rates. Ideal for long-term planning. Rates adjust with market conditions. Additionally, email is an important concept to consider.",Mortgage_Options_Review.pdf,0.997747399,0
